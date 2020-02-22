@@ -5,3 +5,14 @@ This model we can use to measure the human body for custom cloths fitting. While
 ```
 python3 app.py -i "front-image.jpg, side-image.jpg" 
 ```
+
+# Screenshots
+<img src="/../master/Screenshots/Screenshot_1.png?raw=true" width="300" height="600" />
+<img src="/../master/Screenshots/Screenshot_2.png?raw=true" width="300" height="600" />
+<img src="/../master/Screenshots/Screenshot_3.png?raw=true" width="300" height="600" />
+<img src="/../master/Screenshots/Screenshot_4.png?raw=true" width="300" height="600" />
+<img src="/../master/Screenshots/Screenshot_5.png?raw=true" width="300" height="600" />
+<img src="/../master/Screenshots/Screenshot_6.png?raw=true" width="300" height="600" />
+<img src="/../master/Screenshots/Screenshot_7.png?raw=true" width="300" height="600" />
+<img src="/../master/Screenshots/Screenshot_8.png?raw=true" width="300" height="600" />
+<img src="/../master/Screenshots/Screenshot_9.png?raw=true" width="300" height="600" />

@@ -16,3 +16,6 @@ python3 app.py -i "front-image.jpg, side-image.jpg"
 <img src="https://raw.githubusercontent.com/the-vish-sharma/eTailorUI/master/Screenshots/Screenshot_7.png" width="300" height="600" />
 <img src="https://raw.githubusercontent.com/the-vish-sharma/eTailorUI/master/Screenshots/Screenshot_8.png" width="300" height="600" />
 <img src="https://raw.githubusercontent.com/the-vish-sharma/eTailorUI/master/Screenshots/Screenshot_9.png" width="300" height="600" />
+
+# Model Output
+<img src="https://www.learnopencv.com/wp-content/uploads/2018/05/OpenPose-768x1152.jpg" width="300" height="600" />
